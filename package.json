@@ -1,0 +1,20 @@
+{
+  "name": "skilllab milestone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cron": "^3.2.1",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.3",
+    "ws": "^8.18.0"
+  }
+}
